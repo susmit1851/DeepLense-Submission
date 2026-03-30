@@ -55,9 +55,10 @@ Classes: `no` → 0, `sphere` → 1, `vort` → 2
 
 ---
 
-## AUC-ROC Curve
+### AUC-ROC Curve
 
-![ROC Curve](https://drive.google.com/file/d/1tW3vd4lwGjYWMqsnXnXrGba3JsFliwSd/view?usp=sharing)
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/ed079beb-2044-42b9-bc41-8b3ffc24a1b4" />
+
 
 ### Model Weights
 https://drive.google.com/file/d/1_vx9CVTbSq5qbLU5xY3zltEuiBEKkoep/view?usp=sharing
